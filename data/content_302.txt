@@ -1,0 +1,18 @@
+Drug Testing Midday Group
+3A
+Diamond
+GOLD1
+LL
+RR
+Z1
+Z2
+C
+D
+R
+Z
+6
+CIRCLE
+RECTANGLE
+SQUARE
+TRIANGLE
+

@@ -1,6 +1,6 @@
 var system = require('system');
 var args = system.args;
-var url = https://www.lancastercountyreportingcenters.com/drug-testing/;
+var url = "https://www.lancastercountyreportingcenters.com/drug-testing/";
 
 if(args.length > 1) {
 	url = url.concat('page/', args[1]);
