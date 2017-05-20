@@ -18,7 +18,7 @@ G
 Kappa
 Alpha
 Omega
-#4
-#5
-#8
+4
+5
+8
 

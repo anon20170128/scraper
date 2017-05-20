@@ -9,5 +9,5 @@ Circle
 Diamond
 Z
 Z2
-#6
+6
 

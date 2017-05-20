@@ -10,6 +10,6 @@ ALPHA
 KAPPA
 OMICRON
 ZETA
-#4
-#7
+4
+7
 

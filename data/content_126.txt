@@ -21,10 +21,10 @@ PI
 OMEGA
 OMICRON
 SIGMA
-#4
-#7
-#8
-#9
+4
+7
+8
+9
 Midday Groups 
 C 
 Z2
@@ -53,9 +53,9 @@ I
 Gamma
 Iota
 Kappa
-#4
-#5
-#10
+4
+5
+10
 No Testing Today 
 No Testing Today 
 No Testing Today 

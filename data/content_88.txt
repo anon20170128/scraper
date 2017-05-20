@@ -12,6 +12,6 @@ SS1
 GAMMA
 IOTA
 SIGMA
-#4
-#5
+4
+5
 

@@ -4,7 +4,7 @@ K
 D
 Z
 Z2
-#6
+6
 OCTAGON
 SQUARE
 CIRCLE

@@ -1,6 +1,6 @@
 Drug Techs
 DD
-#6
+6
 CIRCLE
 GRAPHITE
 OCTAGON

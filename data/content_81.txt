@@ -3,7 +3,7 @@ RR
 QQ
 UU
 M
-#6
+6
 Z2
 SQUARE
 CIRCLE

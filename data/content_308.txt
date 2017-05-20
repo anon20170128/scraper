@@ -18,6 +18,6 @@ Q
 Alpha
 PI
 Zeta
-#7
-#8
+7
+8
 

@@ -7,7 +7,7 @@ Z 2
 N
 O
 S
-#6
+6
 Circle
 Octagon
 Rectangle

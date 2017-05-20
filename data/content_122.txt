@@ -20,5 +20,5 @@ OMEGA
 SIGMA
 IOTA
 PI
-#8
+8
 

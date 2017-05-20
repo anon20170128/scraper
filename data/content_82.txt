@@ -17,6 +17,6 @@ GAMMA
 ALPHA
 OMEGA
 SIGMA
-# 5
-# 7
+ 5
+ 7
 

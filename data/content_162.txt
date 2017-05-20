@@ -7,7 +7,7 @@ C
 D
 M
 Z2
-#6
+6
 SQUARE
 OCTAGON
 CIRCLE

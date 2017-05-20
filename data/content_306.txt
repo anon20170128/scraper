@@ -16,8 +16,8 @@ Sigma
 Lambda
 Omega
 Zeta
-#5
-#7
-#8
+5
+7
+8
 W
 

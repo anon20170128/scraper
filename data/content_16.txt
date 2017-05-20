@@ -6,6 +6,6 @@ Triangle
 Rectangle
 Octagon
 N
-#6
+6
 Z2
 

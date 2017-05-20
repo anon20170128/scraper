@@ -21,6 +21,6 @@ IOTA
 ALPHA
 ZETA
 SIGMA
-#7
-#8
+7
+8
 

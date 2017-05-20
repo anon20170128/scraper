@@ -23,5 +23,5 @@ Y
 IOTA
 PI
 OMEGA
-#8
+8
 

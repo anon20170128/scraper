@@ -13,6 +13,6 @@ GAMMA
 OMICRON
 OMEGA
 PI
-#4
-#12
+4
+12
 

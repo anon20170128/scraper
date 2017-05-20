@@ -1,0 +1,18 @@
+Drug Midday Testing 12/14/2016
+3A
+RR
+HH
+QQ
+LL
+UU
+Z1
+Z
+Square
+Octagon
+Foxtrot
+Circle
+Diamond
+Triangle
+Rectangle
+6
+

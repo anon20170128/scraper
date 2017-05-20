@@ -11,5 +11,5 @@ Foxtrot
 M
 Z
 Z2
-#6
+6
 

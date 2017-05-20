@@ -17,7 +17,7 @@ GAMMA
 ZETA
 SIGMA
 OMICRON
-#5
-#9
-#10
+5
+9
+10
 

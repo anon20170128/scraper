@@ -28,8 +28,8 @@ TANGO
 EPSILON
 OMEGA
 TAU
-#4
-#8
-#9
-#10
+4
+8
+9
+10
 

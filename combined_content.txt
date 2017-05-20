@@ -25,7 +25,7 @@ JJ
 SS1
 W1
 A 
-#5
+5
 Drug Testing Midday Groups 5/4/2017
 Square
 Circle
@@ -74,7 +74,7 @@ HH
 LL
 RR
 Z2
-#6
+6
 Wednesday Morning Testing 5/3/2017
 Red
 Flannel
@@ -102,9 +102,9 @@ OO
 SS1
 W3
 Y2
-#4
-#8
-#10
+4
+8
+10
 Tuesday Midday Testing 5/2/2017
 There is NO Midday Testing Today
 Tuesday Morning Testing 5/2/2017
@@ -156,8 +156,8 @@ F
 T
 W3
 Y
-#4
-#8
+4
+8
 Drug Testing Midday Group 4/26/2017
 Square
 Octagon
@@ -171,7 +171,7 @@ Foxtrot
 M
 Z
 Z2
-#6
+6
 Drug Testing Morning Groups 4/26/17
 Red
 Flannel
@@ -195,8 +195,8 @@ J
 SS1
 W1
 X2
-#5
-#7 
+5
+7 
 Drug Testing Midday Groups 4/25/2017
 Square
 Octagon
@@ -209,7 +209,7 @@ LL
 QQ
 RR
 Z
-#6
+6
 Drug Testing Morning Groups 4/25/2017
 Red
 Flannel
@@ -235,10 +235,10 @@ E
 W
 X
 SS1
-#4
-#7
-#8
-#9
+4
+7
+8
+9
 Drug Testing Midday Groups 4/24/17
 Square
 Octagon
@@ -251,7 +251,7 @@ RR
 TT 
 C 
 Z2
-#6
+6
 Drug Testing Morning Groups 4/24/17
 Red
 Flannel
@@ -274,10 +274,10 @@ B
 I 
 SS1
 W2
-#4
-#5
-#7
-#10
+4
+5
+7
+10
 Drug Testing Sunday 4/23/2017
 There is NO Testing for Morning or Midday Today 
 Drug Testing Saturday 4/22/2017
@@ -290,7 +290,7 @@ Triangle
 Rectangle
 Octagon
 N
-#6
+6
 Z2
 Drug Testing Morning Groups 4/21/2017
 Red
@@ -309,9 +309,9 @@ SS
 E
 Q
 W3
-#4
-#7
-#8
+4
+7
+8
 Drug Testing Midday Group 4/20/2017
 Square
 Octagon
@@ -340,10 +340,10 @@ II
 JJ
 SS1
 W
-#4
-#5
-#9
-#11
+4
+5
+9
+11
 Drug Testing Midday Groups 4/19/2017
 Square
 Octagon
@@ -383,7 +383,7 @@ A
 E
 F
 T
-#7
+7
 Drug Testing Midday Groups 4/18/2017
 Square
 Octagon
@@ -400,7 +400,7 @@ LL
 RR
 K
 Z2
-#6
+6
 Drug Testing Morning Groups 4/18/2017
 Red
 Maroon
@@ -422,8 +422,8 @@ P
 SS1
 W1
 Y1
-#4
-#10
+4
+10
 Drug Testing Midday Groups 4/17/2017
 Square
 Circle
@@ -436,7 +436,7 @@ HH
 QQ
 YY
 Z2
-#6
+6
 Drug Testing Monday Morning 4/17/2017
 Flannel
 Plaid 
@@ -457,8 +457,8 @@ OO
 SS1
 W2
 X
-#5
-#7
+5
+7
 Drug Testing Sunday 4/16/2017 There is NO TESTING FOR MORNING OR MIDDAY TODAY
 Drug Testing Saturday Groups 4/15/2017 YOU MUST REPORT Between the HOURS of 5:00am
 Red
@@ -470,7 +470,7 @@ II
 RR
 UU
 D
-#8
+8
 Drug Testing Midday Groups 4/14/2017
 Square
 Circle
@@ -500,7 +500,7 @@ JJ
 A
 SS1
 W1
-#5
+5
 Drug Testing Midday Group 4/13/2017
 Square
 Circle
@@ -512,7 +512,7 @@ QQ
 RR
 S
 Z2
-#6
+6
 Drug Testing Morning Groups 4/13/2017
 Flannel 
 Plaid
@@ -532,8 +532,8 @@ SS
 OO
 E
 W2
-#4
-#7
+4
+7
 Drug Testing Midday Groups 4/12/2017
 Square
 Circle
@@ -543,7 +543,7 @@ HH
 LL
 RR
 Z2
-#6
+6
 Drug Testing Morning Group 4/12/2017
 Flannel
 Plaid
@@ -566,9 +566,9 @@ P
 W
 SS1
 Y2
-#4
-#8
-#10
+4
+8
+10
 Drug Testing Midday Groups 4/11/2017
 Square
 Octagon
@@ -602,15 +602,15 @@ SS1
 W3
 J
 T
-#5
-#7
+5
+7
 Drug Testing Midday Groups 4/10/2017
 RR
 QQ
 R
 Z
 Z2
-#6
+6
 Lima1
 Square
 Octagon
@@ -641,10 +641,10 @@ GG
 OO
 ZZ
 X1
-#4
-#7
-#8
-#9
+4
+7
+8
+9
 Drug Testing Sunday  4/9/2017
 THERE IS NO TESTING FOR MORNING OR MIDDAY Groups 
 Drug Testing Saturday 4/8/2017. Groups must report from 5:OO am to 8:30 ONLY !!!
@@ -685,8 +685,8 @@ SS
 SS1
 X2
 B
-#5
-#10
+5
+10
 Drug Testing Midday Groups 4/6/2017
 Square
 Circle
@@ -698,7 +698,7 @@ RR
 UU
 C
 L
-#6
+6
 Drug Testing Morning Groups 4/6/17
 Red
 Flannel
@@ -719,9 +719,9 @@ E
 T
 II
 W3
-#4
-#7
-#8
+4
+7
+8
 Drug Testing Midday Groups 4/5/17
 Square
 Octagon
@@ -753,9 +753,9 @@ I
 SS1
 W1
 X1
-#4
-#5
-#7
+4
+5
+7
 Tango
 Drug Testing Midday 4/4/2017
 Square
@@ -770,7 +770,7 @@ TT
 Bravo
 Z
 Z2
-#6
+6
 Drug Testing Morning Groups 4/4/2017
 Red
 Flannel
@@ -791,10 +791,10 @@ W2
 F
 G
 H
-#7
-#8
-#9
-#11
+7
+8
+9
+11
 Drug Testing Midday Groups 4/3/2017
 Square
 Octagon
@@ -807,7 +807,7 @@ HH
 M
 D
 Z1
-#6
+6
 Drug Testing Morning Groups 4/3/2017
 Red
 Flannel
@@ -832,8 +832,8 @@ SS
 OO
 E
 W
-#4
-#12
+4
+12
 Drug Testing Sunday 4/2/2017
 THERE IS NO TESTING MORNING OR MIDDAY  GROUPS TODAY 
 Drug Testing Saturday 4/1/2017
@@ -849,7 +849,7 @@ D
 K
 Z
 Z2
-#6
+6
 Drug Testing  Saturday 3/25/2017
 THERE IS NO TESTING MORNING OR MIDDAY TODAY
 Drug Testing Midday Groups 3/24/2017
@@ -863,7 +863,7 @@ TT
 Z
 Foxtrot
 Lima1
-#6
+6
 Drug Testing Morning Group 3/24/2017
 Red
 Plaid
@@ -878,8 +878,8 @@ Gamma
 Sigma
 SS
 SS1
-#4
-#5
+4
+5
 Drug Testing Midday Groups 3/23/2017
 Square
 Circle
@@ -907,7 +907,7 @@ SS
 JJ
 OO
 W2
-# 7
+ 7
 Drug Testing Midday Group 3/22/2017
 Square
 Circle
@@ -1148,7 +1148,7 @@ Lima 1
 Foxtrot
 K
 Z 2
-#6
+6
 Red
 Maroon
 Flannel
@@ -1170,15 +1170,15 @@ JJ
 SS 1
 W 1
 Y 1
-#4
-#10
+4
+10
 Drug Testing Midday Groups 3/6/17
 PLATINUM
 RR
 HH
 QQ
 Z2
-#6
+6
 SQUARE
 BRAVO
 CIRCLE
@@ -1204,9 +1204,9 @@ X
 GAMMA
 ALPHA
 OMEGA
-#5
-#7
-#8
+5
+7
+8
 Sunday, March 5 2017
 THERE IS NO TESTING MORNING OR MIDDAY GROUPS TODAY 
 Drug Testing Saturday 3/4/17
@@ -1241,15 +1241,15 @@ ALPHA
 KAPPA
 OMICRON
 ZETA
-#4
-#7
+4
+7
 Drug Testing Midday Groups 3/2/17
 LL
 QQ
 HH
 Z
 Z2
-#6
+6
 SQUARE
 CIRCLE
 DIAMOND
@@ -1281,13 +1281,13 @@ Y
 IOTA
 PI
 OMEGA
-#8
+8
 Drug Testing Midday Groups 3/1/17
 RR
 QQ
 UU
 M
-#6
+6
 Z2
 SQUARE
 CIRCLE
@@ -1315,15 +1315,15 @@ GAMMA
 ALPHA
 OMEGA
 SIGMA
-# 5
-# 7
+ 5
+ 7
 Drug Testing Midday Groups 2/28/17
 RR
 HH
 LL
 Z
 D
-#6
+6
 SQUARE
 CIRCLE
 DIAMOND
@@ -1351,10 +1351,10 @@ ZETA
 OMICRON
 TANGO
 YANKEE
-# 4
-# 7
-# 8
-# 9
+ 4
+ 7
+ 8
+ 9
 Drug Testing Midday Groups 2/27/17
 QQ
 C
@@ -1397,7 +1397,7 @@ Drug Testing Midday Groups 2/24/17
 TT
 QQ
 Z
-#6
+6
 OCTAGON
 SQUARE
 CIRCLE
@@ -1420,8 +1420,8 @@ SS1
 GAMMA
 IOTA
 SIGMA
-#4
-#5
+4
+5
 Drug Testing Midday Groups 2/23/17
 RR
 HH
@@ -1429,7 +1429,7 @@ QQ
 LL
 S
 Z2
-#6
+6
 OCTAGON
 SQUARE
 CIRCLE
@@ -1461,14 +1461,14 @@ OMEGA
 ZETA
 OMICRON
 PI
-# 4
-# 7
+ 4
+ 7
 Drug Testing Midday Groups 2/22/17
 LL
 HH
 R
 Z2
-#6
+6
 OCTAGON
 SQUARE
 CIRCLE
@@ -1504,10 +1504,10 @@ TANGO
 EPSILON
 OMEGA
 TAU
-#4
-#8
-#9
-#10
+4
+8
+9
+10
 Drug Testing Midday Group 2/21/2017
 Square
 Circle
@@ -1746,7 +1746,7 @@ E
 Gamma
 Square
 Triangle
-#6
+6
 Drug Testing Midday Group 2/10/2017
 Octagon
 Rectangle
@@ -1861,7 +1861,7 @@ Circle
 Diamond
 Z
 Z2
-#6
+6
 Drug Testing Morning Groups 2/7/17
 FLANNEL
 RED
@@ -1881,9 +1881,9 @@ H
 F
 SS1
 W2
-#7
-#8
-#11
+7
+8
+11
 DRUG TESTING MONDAY 2/6/2017
 Distrcit 3A
 TODAY IS MASS TESTING DAY !!!!  ALL MIDDAY GROUPS REPORT FOR TESTING BETWEEN 10AM
@@ -1899,7 +1899,7 @@ K
 D
 Z
 Z2
-#6
+6
 OCTAGON
 SQUARE
 CIRCLE
@@ -1924,8 +1924,8 @@ OMICRON
 GAMMA
 ALPHA
 KAPPA
-#4
-#7
+4
+7
 Drug Testing Midday Groups 2/2/17
 HH
 LL
@@ -1959,13 +1959,13 @@ OMEGA
 SIGMA
 IOTA
 PI
-#8
+8
 Drug Testing Midday Groups 2/1/17
 RR
 UU
 QQ
 M
-#6
+6
 OCTAGON
 RECTANGLE
 SQUARE
@@ -1992,8 +1992,8 @@ ZETA
 GAMMA
 ALPHA
 TANGO
-#5
-#7
+5
+7
 Drug Testing Midday Groups 1/31/17
 RR
 HH
@@ -2001,7 +2001,7 @@ LL
 QQ
 S
 Z
-#6
+6
 FOXTROT
 RECTANGLE
 SQUARE
@@ -2031,10 +2031,10 @@ PI
 OMEGA
 OMICRON
 SIGMA
-#4
-#7
-#8
-#9
+4
+7
+8
+9
 Midday Groups 
 C 
 Z2
@@ -2063,9 +2063,9 @@ I
 Gamma
 Iota
 Kappa
-#4
-#5
-#10
+4
+5
+10
 No Testing Today 
 No Testing Today 
 No Testing Today 
@@ -2097,9 +2097,9 @@ GAMMA
 ZETA
 SIGMA
 OMICRON
-#5
-#9
-#10
+5
+9
+10
 Drug Testing Midday Groups 1/26/2017
 Distrcit 3A
 HH
@@ -2251,7 +2251,7 @@ SIGMA
 GAMMA
 IOTA
 KAPPA
-#5
+5
 Drug Testing Midday Groups 1/12/2017
 Distric 3A
 RR
@@ -2621,8 +2621,8 @@ GAMMA
 OMICRON
 OMEGA
 PI
-#4
-#12
+4
+12
 Drug Testing Midday Groups 12/15/16
 QQ
 DD
@@ -2632,7 +2632,7 @@ C
 D
 M
 Z2
-#6
+6
 SQUARE
 OCTAGON
 CIRCLE
@@ -2662,8 +2662,8 @@ IOTA
 ALPHA
 ZETA
 SIGMA
-#7
-#8
+7
+8
 Drug Midday Testing 12/14/2016
 3A
 RR
@@ -4742,7 +4742,7 @@ Sigma
 Drug Testing Midday
 Drug Techs
 DD
-#6
+6
 CIRCLE
 GRAPHITE
 OCTAGON
@@ -4802,9 +4802,9 @@ G
 Kappa
 Alpha
 Omega
-#4
-#5
-#8
+4
+5
+8
 Drug Testing Midday 8/24/2016
 3A
 QQ
@@ -4917,9 +4917,9 @@ Sigma
 Lambda
 Omega
 Zeta
-#5
-#7
-#8
+5
+7
+8
 W
 Drug Testing Midday Groups 8/12/16
 Diamond
@@ -4930,7 +4930,7 @@ Z 2
 N
 O
 S
-#6
+6
 Circle
 Octagon
 Rectangle
@@ -4956,8 +4956,8 @@ Q
 Alpha
 PI
 Zeta
-#7
-#8
+7
+8
 Drug Testing Midday 8/11/2016
 3A
 THERE IS NO TESTING FOR MIDDAY
@@ -5346,7 +5346,7 @@ Purple
 D
 Drug Testing Midday
 Drug Techs
-#6
+6
 Drug Testing Morning
 Drug Techs
 RED
@@ -5363,7 +5363,7 @@ II
 OO
 B
 G
-#4
+4
 Drug Testing Group
 RR
 UU
@@ -5516,9 +5516,9 @@ E
 W
 T
 H
-#5
-#10
-#7
+5
+10
+7
 Drug Testing Midday Groups
 Platinum
 HH

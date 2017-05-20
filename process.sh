@@ -1,3 +1,4 @@
+# Scraper
 echo Scraping page 0
 phantomjs process.js > content.html
 
@@ -5,8 +6,9 @@ phantomjs process.js > content.html
 python process.py content.html
 
 # cut off beginning of file and remove all <p> tags
-sed -n -E -e '/Lancaster County Probation/,$ p' content_final.txt \
+sed -n -E -e '/Lancaster County Probation/,$ p' content.html.out \
 | sed '1 d' \
+| sed 's/#//' \
 | awk '{gsub(/<[^>]*>/,"\n"); print }' \
 | awk '{gsub(/#comp-ijeyuhbq/, "\n"); print }' \
 | awk '{gsub(/.label:hover h2{text-decoration:underline}/, "\n"); print }' \
@@ -26,6 +28,7 @@ sed -n -E -e '/Lancaster County Probation/,$ p' content_final.txt \
 | grep -v '^Daily Drug Testing Groups' \
 | grep -vi '^January' \
 | grep -vi '^February' \
+| grep -vi '^some elements' \
 | grep -vi '^March' \
 | grep -vi '^April' \
 | grep -vi '^May' \
@@ -37,6 +40,7 @@ sed -n -E -e '/Lancaster County Probation/,$ p' content_final.txt \
 | grep -vi '^November' \
 | grep -vi '^December' \
 | grep -v '^Call-in Line' \
+| sed 's\#\\' \
 | cut -f1 -d"-" > content_final.txt
 
 

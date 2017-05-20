@@ -2,7 +2,7 @@ Drug Testing Midday Groups 2/24/17
 TT
 QQ
 Z
-#6
+6
 OCTAGON
 SQUARE
 CIRCLE

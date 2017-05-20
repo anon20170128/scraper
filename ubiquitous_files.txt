@@ -1,0 +1,1866 @@
+"x"
+"1" "content_147.txt
+---------------
+"
+"x"
+"1" "Drug Testing Christmas Eve"
+"2" "3A"
+"3" "THERE WILL BE NO TESTING FOR MORNING OR MIDDAY TODAY !!!"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_184.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday Groups"
+"2" "RR"
+"3" "Z2"
+"4" "6"
+"5" "Circle"
+"6" "Octagon"
+"7" "Rectangle"
+"8" "Square"
+"9" "Triangle"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_207.txt
+---------------
+"
+"x"
+"1" "Drug Testing Morning Groups11/17/16"
+"2" "Blue"
+"3" "Emerald"
+"4" "Flannel"
+"5" "Maroon"
+"6" "Plaid"
+"7" "Purple"
+"8" "Red"
+"9" "EE"
+"10" "JJ"
+"11" "OO"
+"12" "SS"
+"13" "W2"
+"14" "E"
+"15" "F"
+"16" "T"
+"17" "Iota"
+"18" "Omega"
+"19" "Omicron"
+"20" "PI"
+"21" "4"
+"22" "8"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_220.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday Groups"
+"2" "C"
+"3" "D"
+"4" "L"
+"5" "O"
+"6" "N"
+"7" "Circle"
+"8" "Diamond"
+"9" "Octagon"
+"10" "Rectangle"
+"11" "Square"
+"12" "Triangle"
+"13" "Lima1"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_253.txt
+---------------
+"
+"x"
+"1" "Drug Testing Mid"
+"2" "D"
+"3" "6"
+"4" "CIRCLE"
+"5" "DIAMOND"
+"6" "OCTAGON"
+"7" "RECTANGLE"
+"8" "SQUARE"
+"9" "TRIANGLE"
+"10" "RR"
+"11" "LL"
+"12" "UU"
+"13" "D"
+"14" "C"
+"15" "N"
+"16" "Z"
+"17" "Z2"
+"18" "Some elements on this page did not load. Refresh your site &amp; try again."
+"x"
+"1" "
+
+"
+"x"
+"1" "content_257.txt
+---------------
+"
+"x"
+"1" "Drug testing Midday"
+"2" "3A"
+"3" "There is no midday testing today"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_26.txt
+---------------
+"
+"x"
+"1" "Drug Testing Sunday 4/16/2017 There is NO TESTING FOR MORNING OR MIDDAY TODAY"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_261.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday Groups"
+"2" "QQ"
+"3" "Z2"
+"4" "C"
+"5" "D"
+"6" "O"
+"7" "N"
+"8" "L"
+"9" "6"
+"10" "Square"
+"11" "Octagon"
+"12" "Circle"
+"13" "Triangle"
+"14" "Rectangle"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_27.txt
+---------------
+"
+"x"
+"1" "Drug Testing Saturday Groups 4/15/2017 YOU MUST REPORT Between the HOURS of 5:00am"
+"2" "Red"
+"3" "Blue"
+"4" "Purple"
+"5" "Iota"
+"6" "Kappa"
+"7" "II"
+"8" "RR"
+"9" "UU"
+"10" "D"
+"11" "8"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_294.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_295.txt
+---------------
+"
+"x"
+"1" "Drug Techs"
+"2" "DD"
+"3" "6"
+"4" "CIRCLE"
+"5" "GRAPHITE"
+"6" "OCTAGON"
+"7" "SQUARE"
+"8" "TRIANGLE"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_296.txt
+---------------
+"
+"x"
+"1" "Drug Testing AM"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_297.txt
+---------------
+"
+"x"
+"1" "Drug Techs"
+"2" "BLUE"
+"3" "EMERALD"
+"4" "FLANNEL"
+"5" "GREEN"
+"6" "MAROON"
+"7" "ORANGE"
+"8" "PLAID"
+"9" "RED"
+"10" "TEAL"
+"11" "JJ"
+"12" "II"
+"13" "SS1"
+"14" "T"
+"15" "GAMMA"
+"16" "OMICRON"
+"17" "PI"
+"18" "ZETA"
+"19" "5"
+"20" "7"
+"21" "10"
+"22" "12"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_298.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday Groups"
+"2" "HH"
+"3" "LL"
+"4" "RR"
+"5" "Z"
+"6" "Circle"
+"7" "Diamond"
+"8" "Octagon"
+"9" "Rectangle"
+"10" "Square"
+"11" "Triangle"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_299.txt
+---------------
+"
+"x"
+"1" "Drug Testing Morning Groups"
+"2" "Brown"
+"3" "Emerald"
+"4" "Flannel"
+"5" "Maroon"
+"6" "Plaid"
+"7" "Purple"
+"8" "Red"
+"9" "Teal"
+"10" "OO"
+"11" "SS"
+"12" "SS1"
+"13" "W3"
+"14" "Y2"
+"15" "F"
+"16" "J"
+"17" "G"
+"18" "Kappa"
+"19" "Alpha"
+"20" "Omega"
+"21" "4"
+"22" "5"
+"23" "8"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_302.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday Group"
+"2" "3A"
+"3" "Diamond"
+"4" "GOLD1"
+"5" "LL"
+"6" "RR"
+"7" "Z1"
+"8" "Z2"
+"9" "C"
+"10" "D"
+"11" "R"
+"12" "Z"
+"13" "6"
+"14" "CIRCLE"
+"15" "RECTANGLE"
+"16" "SQUARE"
+"17" "TRIANGLE"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_320.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday"
+"2" "RR"
+"3" "UU"
+"4" "M"
+"5" "Z"
+"6" "Z2"
+"7" "QQ"
+"8" "LL"
+"9" "Silver1"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_323.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday"
+"2" "3A"
+"3" "QQ"
+"4" "Z"
+"5" "Z2"
+"6" "6"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_328.txt
+---------------
+"
+"x"
+"1" "Drug Testing Morning Group"
+"2" "Red"
+"3" "Emerald"
+"4" "Maroon"
+"5" "Flannel"
+"6" "Blue"
+"7" "Orange"
+"8" "Pink"
+"9" "II"
+"10" "SS"
+"11" "SS1"
+"12" "W1"
+"13" "P1"
+"14" "4"
+"15" "7"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_336.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_337.txt
+---------------
+"
+"x"
+"1" "Drug Techs"
+"2" "6"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_338.txt
+---------------
+"
+"x"
+"1" "Drug Testing Morning"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_339.txt
+---------------
+"
+"x"
+"1" "Drug Techs"
+"2" "RED"
+"3" "EMERALD"
+"4" "MAROON"
+"5" "FLANNEL"
+"6" "GREEN"
+"7" "BLUE"
+"8" "PURPLE"
+"9" "ORANGE"
+"10" "CC"
+"11" "JJ"
+"12" "II"
+"13" "OO"
+"14" "B"
+"15" "G"
+"16" "4"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_340.txt
+---------------
+"
+"x"
+"1" "Drug Testing Group"
+"2" "RR"
+"3" "UU"
+"4" "D"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_341.txt
+---------------
+"
+"x"
+"1" "Drug Testing Morning Group"
+"2" "Red"
+"3" "Maroon"
+"4" "Flannel"
+"5" "Green"
+"6" "Pink"
+"7" "Black"
+"8" "PI"
+"9" "Alpha"
+"10" "II"
+"11" "E"
+"12" "T"
+"13" "w1"
+"14" "x2"
+"15" "5"
+"16" "9"
+"17" "10"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_342.txt
+---------------
+"
+"x"
+"1" "Drug Testing Groups Morning Groups"
+"2" "Red"
+"3" "Emerald"
+"4" "Maroon"
+"5" "Flannel"
+"6" "Green"
+"7" "Pink"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_344.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday Group"
+"2" "Disttict 3A"
+"3" "HH"
+"4" "QQ"
+"5" "LL"
+"6" "Z2"
+"7" "Z"
+"8" "Silver"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_345.txt
+---------------
+"
+"x"
+"1" "Drug Testing Morning Groups"
+"2" "Red"
+"3" "Emerald"
+"4" "Green"
+"5" "Flannel"
+"6" "Purple"
+"7" "Brown"
+"8" "Alpha"
+"9" "SS"
+"10" "A"
+"11" "F"
+"12" "J"
+"13" "SS1"
+"14" "W3"
+"15" "7"
+"16" "8"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_347.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday Groups"
+"2" "HH"
+"3" "QQ"
+"4" "LL"
+"5" "Z"
+"6" "Z2"
+"7" "Silver1"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_348.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday Groups"
+"2" "LL"
+"3" "RR"
+"4" "C"
+"5" "O"
+"6" "Platnuim"
+"7" "Z2"
+"8" "6"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_352.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday 7/8"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_353.txt
+---------------
+"
+"x"
+"1" "Drug Techs"
+"2" "TRIANGLE"
+"3" "RECTANGLE"
+"4" "SQUARE"
+"5" "OCTAGON"
+"6" "CIRCLE"
+"7" "DIAMOND"
+"8" "RR"
+"9" "HH"
+"10" "K"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_354.txt
+---------------
+"
+"x"
+"1" "Drug Testing AM 7/8"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_355.txt
+---------------
+"
+"x"
+"1" "Drug Techs"
+"2" "RED"
+"3" "EMERALD"
+"4" "FLANNEL"
+"5" "MAROON"
+"6" "GREEN"
+"7" "YELLOW"
+"8" "PLAID"
+"9" "TEAL"
+"10" "SS"
+"11" "CC"
+"12" "EE"
+"13" "JJ"
+"14" "II"
+"15" "E"
+"16" "W"
+"17" "T"
+"18" "H"
+"19" "5"
+"20" "10"
+"21" "7"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_356.txt
+---------------
+"
+"x"
+"1" "Drug Testing Midday Groups"
+"2" "Platinum"
+"3" "HH"
+"4" "QQ"
+"5" "Z"
+"6" "D"
+"7" "Z2"
+"8" "6"
+"x"
+"1" "
+
+"
+"x"
+"1" "content_39.txt
+---------------
+"
+"x"
+"1" "Drug Testing Saturday 4/8/2017. Groups must report from 5:OO am to 8:30 ONLY !!!"
+"2" "Green"
+"3" "Flannel"
+"4" "HH"
+"5" "SS"
+"6" "Orange"
+"7" "Plaid"
+"8" "QQ"
+"9" "F"
+"10" "Red"
+"11" "OO"
+"x"
+"1" "
+
+"
+content_147.txt
+---------------
+
+Drug Testing Christmas Eve
+3A
+THERE WILL BE NO TESTING FOR MORNING OR MIDDAY TODAY !!!
+x
+1 
+
+
+content_184.txt
+---------------
+
+Drug Testing Midday Groups
+RR
+Z2
+6
+Circle
+Octagon
+Rectangle
+Square
+Triangle
+x
+1 
+
+
+content_207.txt
+---------------
+
+Drug Testing Morning Groups11/17/16
+Blue
+Emerald
+Flannel
+Maroon
+Plaid
+Purple
+Red
+EE
+JJ
+OO
+SS
+W2
+E
+F
+T
+Iota
+Omega
+Omicron
+PI
+4
+8
+x
+1 
+
+
+content_220.txt
+---------------
+
+Drug Testing Midday Groups
+C
+D
+L
+O
+N
+Circle
+Diamond
+Octagon
+Rectangle
+Square
+Triangle
+Lima1
+x
+1 
+
+
+content_253.txt
+---------------
+
+Drug Testing Mid
+D
+6
+CIRCLE
+DIAMOND
+OCTAGON
+RECTANGLE
+SQUARE
+TRIANGLE
+RR
+LL
+UU
+D
+C
+N
+Z
+Z2
+Some elements on this page did not load. Refresh your site &amp; try again.
+x
+1 
+
+
+content_257.txt
+---------------
+
+Drug testing Midday
+3A
+There is no midday testing today
+x
+1 
+
+
+content_26.txt
+---------------
+
+Drug Testing Sunday 4/16/2017 There is NO TESTING FOR MORNING OR MIDDAY TODAY
+x
+1 
+
+
+content_261.txt
+---------------
+
+Drug Testing Midday Groups
+QQ
+Z2
+C
+D
+O
+N
+L
+6
+Square
+Octagon
+Circle
+Triangle
+Rectangle
+x
+1 
+
+
+content_27.txt
+---------------
+
+Drug Testing Saturday Groups 4/15/2017 YOU MUST REPORT Between the HOURS of 5:00am
+Red
+Blue
+Purple
+Iota
+Kappa
+II
+RR
+UU
+D
+8
+x
+1 
+
+
+content_294.txt
+---------------
+
+Drug Testing Midday
+x
+1 
+
+
+content_295.txt
+---------------
+
+Drug Techs
+DD
+6
+CIRCLE
+GRAPHITE
+OCTAGON
+SQUARE
+TRIANGLE
+x
+1 
+
+
+content_296.txt
+---------------
+
+Drug Testing AM
+x
+1 
+
+
+content_297.txt
+---------------
+
+Drug Techs
+BLUE
+EMERALD
+FLANNEL
+GREEN
+MAROON
+ORANGE
+PLAID
+RED
+TEAL
+JJ
+II
+SS1
+T
+GAMMA
+OMICRON
+PI
+ZETA
+5
+7
+10
+12
+x
+1 
+
+
+content_298.txt
+---------------
+
+Drug Testing Midday Groups
+HH
+LL
+RR
+Z
+Circle
+Diamond
+Octagon
+Rectangle
+Square
+Triangle
+x
+1 
+
+
+content_299.txt
+---------------
+
+Drug Testing Morning Groups
+Brown
+Emerald
+Flannel
+Maroon
+Plaid
+Purple
+Red
+Teal
+OO
+SS
+SS1
+W3
+Y2
+F
+J
+G
+Kappa
+Alpha
+Omega
+4
+5
+8
+x
+1 
+
+
+content_302.txt
+---------------
+
+Drug Testing Midday Group
+3A
+Diamond
+GOLD1
+LL
+RR
+Z1
+Z2
+C
+D
+R
+Z
+6
+CIRCLE
+RECTANGLE
+SQUARE
+TRIANGLE
+x
+1 
+
+
+content_320.txt
+---------------
+
+Drug Testing Midday
+RR
+UU
+M
+Z
+Z2
+QQ
+LL
+Silver1
+x
+1 
+
+
+content_323.txt
+---------------
+
+Drug Testing Midday
+3A
+QQ
+Z
+Z2
+6
+x
+1 
+
+
+content_328.txt
+---------------
+
+Drug Testing Morning Group
+Red
+Emerald
+Maroon
+Flannel
+Blue
+Orange
+Pink
+II
+SS
+SS1
+W1
+P1
+4
+7
+x
+1 
+
+
+content_336.txt
+---------------
+
+Drug Testing Midday
+x
+1 
+
+
+content_337.txt
+---------------
+
+Drug Techs
+6
+x
+1 
+
+
+content_338.txt
+---------------
+
+Drug Testing Morning
+x
+1 
+
+
+content_339.txt
+---------------
+
+Drug Techs
+RED
+EMERALD
+MAROON
+FLANNEL
+GREEN
+BLUE
+PURPLE
+ORANGE
+CC
+JJ
+II
+OO
+B
+G
+4
+x
+1 
+
+
+content_340.txt
+---------------
+
+Drug Testing Group
+RR
+UU
+D
+x
+1 
+
+
+content_341.txt
+---------------
+
+Drug Testing Morning Group
+Red
+Maroon
+Flannel
+Green
+Pink
+Black
+PI
+Alpha
+II
+E
+T
+w1
+x2
+5
+9
+10
+x
+1 
+
+
+content_342.txt
+---------------
+
+Drug Testing Groups Morning Groups
+Red
+Emerald
+Maroon
+Flannel
+Green
+Pink
+x
+1 
+
+
+content_344.txt
+---------------
+
+Drug Testing Midday Group
+Disttict 3A
+HH
+QQ
+LL
+Z2
+Z
+Silver
+x
+1 
+
+
+content_345.txt
+---------------
+
+Drug Testing Morning Groups
+Red
+Emerald
+Green
+Flannel
+Purple
+Brown
+Alpha
+SS
+A
+F
+J
+SS1
+W3
+7
+8
+x
+1 
+
+
+content_347.txt
+---------------
+
+Drug Testing Midday Groups
+HH
+QQ
+LL
+Z
+Z2
+Silver1
+x
+1 
+
+
+content_348.txt
+---------------
+
+Drug Testing Midday Groups
+LL
+RR
+C
+O
+Platnuim
+Z2
+6
+x
+1 
+
+
+content_352.txt
+---------------
+
+Drug Testing Midday 7/8
+x
+1 
+
+
+content_353.txt
+---------------
+
+Drug Techs
+TRIANGLE
+RECTANGLE
+SQUARE
+OCTAGON
+CIRCLE
+DIAMOND
+RR
+HH
+K
+x
+1 
+
+
+content_354.txt
+---------------
+
+Drug Testing AM 7/8
+x
+1 
+
+
+content_355.txt
+---------------
+
+Drug Techs
+RED
+EMERALD
+FLANNEL
+MAROON
+GREEN
+YELLOW
+PLAID
+TEAL
+SS
+CC
+EE
+JJ
+II
+E
+W
+T
+H
+5
+10
+7
+x
+1 
+
+
+content_356.txt
+---------------
+
+Drug Testing Midday Groups
+Platinum
+HH
+QQ
+Z
+D
+Z2
+6
+x
+1 
+
+
+content_39.txt
+---------------
+
+Drug Testing Saturday 4/8/2017. Groups must report from 5:OO am to 8:30 ONLY !!!
+Green
+Flannel
+HH
+SS
+Orange
+Plaid
+QQ
+F
+Red
+OO
+x
+1 
+
+
+content_147.txt
+---------------
+
+Drug Testing Christmas Eve
+3A
+THERE WILL BE NO TESTING FOR MORNING OR MIDDAY TODAY !!!
+x
+1 
+
+
+content_184.txt
+---------------
+
+Drug Testing Midday Groups
+RR
+Z2
+6
+Circle
+Octagon
+Rectangle
+Square
+Triangle
+x
+1 
+
+
+content_207.txt
+---------------
+
+Drug Testing Morning Groups11/17/16
+Blue
+Emerald
+Flannel
+Maroon
+Plaid
+Purple
+Red
+EE
+JJ
+OO
+SS
+W2
+E
+F
+T
+Iota
+Omega
+Omicron
+PI
+4
+8
+x
+1 
+
+
+content_220.txt
+---------------
+
+Drug Testing Midday Groups
+C
+D
+L
+O
+N
+Circle
+Diamond
+Octagon
+Rectangle
+Square
+Triangle
+Lima1
+x
+1 
+
+
+content_253.txt
+---------------
+
+Drug Testing Mid
+D
+6
+CIRCLE
+DIAMOND
+OCTAGON
+RECTANGLE
+SQUARE
+TRIANGLE
+RR
+LL
+UU
+D
+C
+N
+Z
+Z2
+Some elements on this page did not load. Refresh your site &amp; try again.
+x
+1 
+
+
+content_257.txt
+---------------
+
+Drug testing Midday
+3A
+There is no midday testing today
+x
+1 
+
+
+content_26.txt
+---------------
+
+Drug Testing Sunday 4/16/2017 There is NO TESTING FOR MORNING OR MIDDAY TODAY
+x
+1 
+
+
+content_261.txt
+---------------
+
+Drug Testing Midday Groups
+QQ
+Z2
+C
+D
+O
+N
+L
+6
+Square
+Octagon
+Circle
+Triangle
+Rectangle
+x
+1 
+
+
+content_27.txt
+---------------
+
+Drug Testing Saturday Groups 4/15/2017 YOU MUST REPORT Between the HOURS of 5:00am
+Red
+Blue
+Purple
+Iota
+Kappa
+II
+RR
+UU
+D
+8
+x
+1 
+
+
+content_294.txt
+---------------
+
+Drug Testing Midday
+x
+1 
+
+
+content_295.txt
+---------------
+
+Drug Techs
+DD
+6
+CIRCLE
+GRAPHITE
+OCTAGON
+SQUARE
+TRIANGLE
+x
+1 
+
+
+content_296.txt
+---------------
+
+Drug Testing AM
+x
+1 
+
+
+content_297.txt
+---------------
+
+Drug Techs
+BLUE
+EMERALD
+FLANNEL
+GREEN
+MAROON
+ORANGE
+PLAID
+RED
+TEAL
+JJ
+II
+SS1
+T
+GAMMA
+OMICRON
+PI
+ZETA
+5
+7
+10
+12
+x
+1 
+
+
+content_298.txt
+---------------
+
+Drug Testing Midday Groups
+HH
+LL
+RR
+Z
+Circle
+Diamond
+Octagon
+Rectangle
+Square
+Triangle
+x
+1 
+
+
+content_299.txt
+---------------
+
+Drug Testing Morning Groups
+Brown
+Emerald
+Flannel
+Maroon
+Plaid
+Purple
+Red
+Teal
+OO
+SS
+SS1
+W3
+Y2
+F
+J
+G
+Kappa
+Alpha
+Omega
+4
+5
+8
+x
+1 
+
+
+content_302.txt
+---------------
+
+Drug Testing Midday Group
+3A
+Diamond
+GOLD1
+LL
+RR
+Z1
+Z2
+C
+D
+R
+Z
+6
+CIRCLE
+RECTANGLE
+SQUARE
+TRIANGLE
+x
+1 
+
+
+content_320.txt
+---------------
+
+Drug Testing Midday
+RR
+UU
+M
+Z
+Z2
+QQ
+LL
+Silver1
+x
+1 
+
+
+content_323.txt
+---------------
+
+Drug Testing Midday
+3A
+QQ
+Z
+Z2
+6
+x
+1 
+
+
+content_328.txt
+---------------
+
+Drug Testing Morning Group
+Red
+Emerald
+Maroon
+Flannel
+Blue
+Orange
+Pink
+II
+SS
+SS1
+W1
+P1
+4
+7
+x
+1 
+
+
+content_336.txt
+---------------
+
+Drug Testing Midday
+x
+1 
+
+
+content_337.txt
+---------------
+
+Drug Techs
+6
+x
+1 
+
+
+content_338.txt
+---------------
+
+Drug Testing Morning
+x
+1 
+
+
+content_339.txt
+---------------
+
+Drug Techs
+RED
+EMERALD
+MAROON
+FLANNEL
+GREEN
+BLUE
+PURPLE
+ORANGE
+CC
+JJ
+II
+OO
+B
+G
+4
+x
+1 
+
+
+content_340.txt
+---------------
+
+Drug Testing Group
+RR
+UU
+D
+x
+1 
+
+
+content_341.txt
+---------------
+
+Drug Testing Morning Group
+Red
+Maroon
+Flannel
+Green
+Pink
+Black
+PI
+Alpha
+II
+E
+T
+w1
+x2
+5
+9
+10
+x
+1 
+
+
+content_342.txt
+---------------
+
+Drug Testing Groups Morning Groups
+Red
+Emerald
+Maroon
+Flannel
+Green
+Pink
+x
+1 
+
+
+content_344.txt
+---------------
+
+Drug Testing Midday Group
+Disttict 3A
+HH
+QQ
+LL
+Z2
+Z
+Silver
+x
+1 
+
+
+content_345.txt
+---------------
+
+Drug Testing Morning Groups
+Red
+Emerald
+Green
+Flannel
+Purple
+Brown
+Alpha
+SS
+A
+F
+J
+SS1
+W3
+7
+8
+x
+1 
+
+
+content_347.txt
+---------------
+
+Drug Testing Midday Groups
+HH
+QQ
+LL
+Z
+Z2
+Silver1
+x
+1 
+
+
+content_348.txt
+---------------
+
+Drug Testing Midday Groups
+LL
+RR
+C
+O
+Platnuim
+Z2
+6
+x
+1 
+
+
+content_352.txt
+---------------
+
+Drug Testing Midday 7/8
+x
+1 
+
+
+content_353.txt
+---------------
+
+Drug Techs
+TRIANGLE
+RECTANGLE
+SQUARE
+OCTAGON
+CIRCLE
+DIAMOND
+RR
+HH
+K
+x
+1 
+
+
+content_354.txt
+---------------
+
+Drug Testing AM 7/8
+x
+1 
+
+
+content_355.txt
+---------------
+
+Drug Techs
+RED
+EMERALD
+FLANNEL
+MAROON
+GREEN
+YELLOW
+PLAID
+TEAL
+SS
+CC
+EE
+JJ
+II
+E
+W
+T
+H
+5
+10
+7
+x
+1 
+
+
+content_356.txt
+---------------
+
+Drug Testing Midday Groups
+Platinum
+HH
+QQ
+Z
+D
+Z2
+6
+x
+1 
+
+
+content_39.txt
+---------------
+
+Drug Testing Saturday 4/8/2017. Groups must report from 5:OO am to 8:30 ONLY !!!
+Green
+Flannel
+HH
+SS
+Orange
+Plaid
+QQ
+F
+Red
+OO
+x
+1 
+
+

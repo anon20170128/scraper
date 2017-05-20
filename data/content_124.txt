@@ -18,6 +18,6 @@ ZETA
 GAMMA
 ALPHA
 TANGO
-#5
-#7
+5
+7
 
