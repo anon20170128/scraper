@@ -39,8 +39,8 @@ for (doc in list.files("./data/", include.dirs=FALSE)) {
     info <- paste(doc,"---------------\n",sep="\n")
     write.table(info, "ubiquitous_files.txt", append=TRUE, col.names=FALSE, row.names=FALSE, quote=FALSE)
     write.table(one_day, "ubiquitous_files.txt", append=TRUE, col.names=FALSE, row.names=FALSE, quote=FALSE)
-    write.table("\n\n", "ubiquitous_files.txt", append=TRUE, quote = FALSE)
-  } else {
+    write.table("\n\n", "ubiquitous_files.txt", append=TRUE, col.names=FALSE, row.names=FALSE, quote = FALSE)
+  } else if("elements" %in% unlist(strsplit(one_day)))
     for (i in 2:length(one_day)) {
       group <- trimws(str_to_lower(one_day[i]))
       if (group %in% names(one_day_groups)) {
@@ -64,6 +64,20 @@ for (doc in list.files("./data/", include.dirs=FALSE)) {
     }
   }
 }
+
+missing <- missing[!missing$miss_date==mdy("1/1/1990"),]
+missing <- missing[!missing$miss_group=="3a",]
+
+index <- c()
+
+for(i in 1:nrow(missing)) {
+  if("no" %in% unlist(strsplit(missing$miss_group[i], " ")) & "testing" %in% unlist(strsplit(missing$miss_group[i], " ")))
+    index <- c(index, i)
+}
+
+missing <- missing[!index,]
+
+
 
 write.table(all_data, "incidence_array.csv", sep=",", row.names=TRUE, col.names=TRUE, quote=FALSE)
 write.table(missing, "missing_entries.csv", sep=",", col.names=TRUE, row.names=FALSE, quote=FALSE)
